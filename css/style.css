@@ -58,7 +58,7 @@
     display: flex;
     justify-content: space-between;
 }
-.div-1 {
+.div-box {
     width: 360px;
     height: 350px;
     background-color: white;
@@ -95,3 +95,42 @@
     font-size: 16px;
     color:#FFF;
 }
+
+
+.bottom-div-wrapper {
+    width: 1160px;
+    height: 960px;
+    margin: 0 auto;
+    margin-top: 56px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.header2-style {
+    font-size: 24px;
+    color: #202124;
+}
+.left-div {
+    width: 760px;
+    height: 960px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+}
+.text-overlay {
+    width: 280px;
+    height: 16px;
+    position: absolute;
+    top: 194px;
+    left: 308px;
+}
+.right-div {
+    margin-top: 58px;
+    height: 841px;
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.
