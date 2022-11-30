@@ -106,6 +106,7 @@
     justify-content: space-between;
 }
 .header2-style {
+    font-weight: bold;
     font-size: 24px;
     color: #202124;
 }
@@ -172,5 +173,15 @@
     width: 160px;
     display: flex;
     justify-content: space-between;
+}
+
+a {
+    font-family: 'Lato';
+}
+h2 {
+    font-family: 'Lato';
+}
+p {
+    font-family: 'Lato';
 }
 
